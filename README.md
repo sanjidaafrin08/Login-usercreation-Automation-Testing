@@ -26,7 +26,12 @@ This project demonstrates automated UI testing using **Selenium WebDriver**, **P
 ## 🗂️ Project Structure
 
 The project is organized as follows:
-Login-usercreation-Automation-Testing/ ├── pages/ │ ├── base_page.py │ ├── login_page.py │ └── user_creation_page.py ├── tests/ │ └── test_login_and_user_creation.py ├── requirements.txt └──
+Login-usercreation-Automation-Testing pages: 
+-base_page.py 
+-login_page.py 
+- user_creation_page.py 
+Tests:
+-test_login_and_user_creation.py 
 
 This structure ensures modularity and easy navigation through different parts of the code, enhancing maintainability and scalability.
 
